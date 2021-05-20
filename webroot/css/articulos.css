@@ -1,0 +1,58 @@
+
+.barra-nav{
+
+    border:none;
+    background: #1b5e20;
+
+}
+.curiousea{
+  color:white!important;
+
+  font-weight: 600;
+  font-size: 20px;
+}
+.navbar-right{
+      float: right!important;
+}
+
+
+body{
+
+  font-family: 'Roboto',sans-serif;
+}
+/*input[type=text],input[type=password],input[type=text]:focus,input[type=password]:focus,input[type=text]:focus:not([readonly]), input[type=password]:focus:not([readonly]){
+  border-bottom: 1px solid white;
+  color:white;
+  border-bottom: 1px solid white;
+    box-shadow: 0 1px 0 0 white;
+
+}
+
+.input-field label{
+    color:white!important;
+}
+
+.input-field {
+  padding-right: 0px;
+   padding-left: 0px;
+}*/
+.btn-volver,.btn-volver:hover  {
+  padding: 0px 15px!important;
+color: white;
+background: #1b5e20;
+}
+.btn-volver:focus,.btn-volver:hover {
+  background-color: #43a047!important;
+}
+.btn-enviar, .btn-enviar:hover, .btn-enviar:focus{
+  background: #43a047;
+}
+h2{
+  color: #43a047!important;
+}
+.btn-cancelar, .btn-cancelar:hover, .btn-cancelar:focus{
+  background: #e53935;
+}
+.caret{
+  display: none;
+}

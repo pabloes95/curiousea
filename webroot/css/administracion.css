@@ -1,0 +1,10 @@
+.activo{
+  border-left: 5px solid green;
+}
+.no-activo{
+  border-left: 5px solid  red;
+}
+#contextMenu {
+  position: absolute;
+  display:none;
+}

@@ -1,0 +1,104 @@
+label{
+  margin-bottom: 0px;
+}
+.btn-volver{
+      padding: 13px 15px!important;
+  color: white;
+}
+
+nav .nav-wrapper{
+  background-color: #4caf50;
+}
+nav .brand-logo{
+  padding-left: 32px;
+}
+
+.formulario {
+  color:white;
+  text-align:   center;
+  background: #4c8c4a;
+  margin-top: 40px;
+  padding-top: 40px ;
+  padding-bottom:50px;
+  margin-bottom: 50px;
+}
+.curiousea{
+  margin-top: 7px;
+}
+
+form{
+      width: 75%;
+    display: inline-block;
+}
+.boton{
+  float: left;
+    margin-top: 15px;
+}
+.barra-nav{
+
+    border:none;
+    background: #1b5e20;
+
+}
+.curiousea{
+  color:white!important;
+
+  font-weight: 600;
+  font-size: 20px;
+}
+.mdl-textfield--floating-label.is-focused .mdl-textfield__label, .mdl-textfield--floating-label .mdl-textfield__label {
+    color: white!important;
+
+}
+.pregunta{
+  text-align: center;
+
+
+}
+.pregunta h1{
+    margin: 0px;
+  font-size: 45px;
+
+}
+body{
+
+  font-family: 'Roboto',sans-serif;
+}
+input[type=text],input[type=password],input[type=text]:focus,
+input[type=password]:focus,input[type=text]:focus:not([readonly]),
+ input[type=password]:focus:not([readonly]),input[type=email],
+ input[type=text]:focus:not([readonly]){
+  border-bottom: 1px solid white;
+  color:white;
+  border-bottom: 1px solid white;
+    box-shadow: 0 1px 0 0 white;
+
+}
+div.message {
+  display: none;
+}
+
+.input-field label{
+    color:white!important;
+}
+
+.input-field {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.btn-enviar, .btn-enviar:hover, .btn-enviar:focus{
+  background: #43a047;
+}
+.btn-cancelar, .btn-cancelar:hover, .btn-cancelar:focus{
+  background: #e53935;
+}
+@media only screen and (max-width : 992px) {
+  
+  nav .brand-logo{
+    padding-left: 0px;
+  }
+
+}
+@media (max-width: 768px) {
+.curiousea { margin-top: 0px;}
+}
